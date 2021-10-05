@@ -1,0 +1,11 @@
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    background-color: yellow;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* The user can resize the height of the element    */
+    resize: vertical;
+}
